@@ -1,12 +1,13 @@
 # Machine Learning
-Lessons
+_Coursera, taught by Andrew Ng_
 
-Coursera, taught by Andrew Ng
+### Done
+ * Linear Regression
+ * Logistic Regression
+ * Multi-class Classification and Neural Networks
+ * Neural Network Learning
+ * Regularized Linear Regression and Bias/Variance
 
-Done
 
-Linear Regression
-Logistic Regression
-Multi-class Classification and Neural Networks
-Neural Network Learning
-Regularized Linear Regression and Bias/Variance
+### Class:
+[Machine Learning](https://class.coursera.org/ml "Machine Learning")
