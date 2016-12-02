@@ -7,6 +7,7 @@ _Coursera, taught by Andrew Ng_
  * Multi-class Classification and Neural Networks
  * Neural Network Learning
  * Regularized Linear Regression and Bias/Variance
+ * Support Vector Machines
 
 
 ### Class:
